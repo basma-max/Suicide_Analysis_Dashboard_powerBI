@@ -90,7 +90,7 @@ Here are some screenshots of the dashboard for better understanding:
 - **Global Suicide Rate Analysis**
 
 
-  <img src="image/dash1[1].jpg" width="800"/>
+  <img src="image/dash1.jpg" width="800"/>
 
   
 

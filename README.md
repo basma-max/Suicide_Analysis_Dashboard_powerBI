@@ -90,14 +90,14 @@ Here are some screenshots of the dashboard for better understanding:
 - **Global Suicide Rate Analysis**
 
 
-  <img src="image/Dash1.jpg" width="800"/>
+  <img src="image/dash1[1].jpg" width="800"/>
 
   
 
 - **Correlation between Mental Health and Suicide Rates**
 
   
-    <img src="image/Dash2.jpg" width="800"/>
+    <img src="image/Dash1.jpg" width="800"/>
 
 
 ---
